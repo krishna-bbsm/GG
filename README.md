@@ -18,4 +18,14 @@ GuessQuest is a fun and interactive guessing game built with Python and Tkinter.
 
 ## Screenshots
 
+![Start Game](https://github.com/krishna-bbsm/Guess_Quest/blob/main/O1.png)
+
+![Game Over](https://github.com/krishna-bbsm/Guess_Quest/blob/main/O2.png)
+
+![Won the Game with Score](https://github.com/krishna-bbsm/Guess_Quest/blob/main/O3.png)
+
+
 ## Built with
+
+Python
+Tkinter
