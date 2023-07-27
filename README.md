@@ -16,8 +16,6 @@ GuessQuest is a fun and interactive guessing game built with Python and Tkinter.
 
 	python main.py
 
-## How to Play
-
 ## Screenshots
 
 ## Built with
