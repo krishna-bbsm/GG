@@ -4,6 +4,18 @@ GuessQuest is a fun and interactive guessing game built with Python and Tkinter.
 
 ## Installation
 
+1. Clone the repository:
+
+	git clone https://github.com/krishna-bbsm/GuessQuest.git
+
+2. Navigate to the project directory:
+
+	cd GuessQuest
+
+3. Run the game:
+
+	python main.py
+
 ## How to Play
 
 ## Screenshots
