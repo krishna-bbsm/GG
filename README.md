@@ -27,5 +27,5 @@ GuessQuest is a fun and interactive guessing game built with Python and Tkinter.
 
 ## Built with
 
-Python
-Tkinter
+[![Python badge](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](https://shields.io/)
+
